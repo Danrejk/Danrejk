@@ -4,3 +4,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="right" src="https://readme-stats-danrejk.vercel.app/api/top-langs/?username=Danrejk&layout=donut&theme=darcula&count_private=true" />
 </a>
+
+<!--START_SECTION:activity-->

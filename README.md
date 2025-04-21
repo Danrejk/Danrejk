@@ -7,9 +7,9 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#89](https://github.com/Danrejk/activy-email/issues/89) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
-2. ❗ Opened issue [#88](https://github.com/Danrejk/activy-email/issues/88) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
-3. 🎉 Merged PR [#87](https://github.com/Danrejk/activy-email/pull/87) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
-4. 💪 Opened PR [#87](https://github.com/Danrejk/activy-email/pull/87) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
-5. 💪 Opened PR [#86](https://github.com/Danrejk/activy-email/pull/86) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
+1. 🗣 Commented on [#91](https://github.com/Danrejk/activy-email/pull/91#issuecomment-2819571582) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
+2. 💪 Opened PR [#91](https://github.com/Danrejk/activy-email/pull/91) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
+3. 🗣 Commented on [#90](https://github.com/Danrejk/activy-email/issues/90#issuecomment-2819569163) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
+4. ❗ Opened issue [#90](https://github.com/Danrejk/activy-email/issues/90) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
+5. ❗ Opened issue [#89](https://github.com/Danrejk/activy-email/issues/89) in [Danrejk/activy-email](https://github.com/Danrejk/activy-email)
 <!--END_SECTION:activity-->

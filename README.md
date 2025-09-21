@@ -7,7 +7,7 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1.  Labeled issue [#1](https://github.com/RegionRiders/RegionRiders/issues/1) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. ❗ Opened issue [#93](https://github.com/Jorl17/open-elevation/issues/93) in [Jorl17/open-elevation](https://github.com/Jorl17/open-elevation)
 2.  Labeled issue [#1](https://github.com/RegionRiders/RegionRiders/issues/1) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 3.  Labeled issue [#1](https://github.com/RegionRiders/RegionRiders/issues/1) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 4. ❗ Opened issue [#1](https://github.com/RegionRiders/RegionRiders/issues/1) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)

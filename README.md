@@ -7,9 +7,9 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/RegionRiders/RegionRiders/pull/4) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ❗ Opened issue [#93](https://github.com/Jorl17/open-elevation/issues/93) in [Jorl17/open-elevation](https://github.com/Jorl17/open-elevation)
-3.  Labeled issue [#1](https://github.com/RegionRiders/RegionRiders/issues/1) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. ❗ Opened issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 🎉 Merged PR [#4](https://github.com/RegionRiders/RegionRiders/pull/4) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. ❗ Opened issue [#93](https://github.com/Jorl17/open-elevation/issues/93) in [Jorl17/open-elevation](https://github.com/Jorl17/open-elevation)
 4. ❗ Opened issue [#1](https://github.com/RegionRiders/RegionRiders/issues/1) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 5.  Assigned issue [#1](https://github.com/RegionRiders/RegionRiders/issues/1) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->

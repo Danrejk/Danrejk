@@ -7,9 +7,9 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/RegionRiders/RegionRiders/issues/13) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ❗ Opened issue [#12](https://github.com/RegionRiders/RegionRiders/issues/12) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. ❗ Opened issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. 🎉 Merged PR [#4](https://github.com/RegionRiders/RegionRiders/pull/4) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ❗ Opened issue [#93](https://github.com/Jorl17/open-elevation/issues/93) in [Jorl17/open-elevation](https://github.com/Jorl17/open-elevation)
+1. ❗ Opened issue [#18](https://github.com/RegionRiders/RegionRiders/issues/18) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. ❗ Opened issue [#16](https://github.com/RegionRiders/RegionRiders/issues/16) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. ❗ Opened issue [#13](https://github.com/RegionRiders/RegionRiders/issues/13) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. ❗ Opened issue [#12](https://github.com/RegionRiders/RegionRiders/issues/12) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ❗ Opened issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->

@@ -2,7 +2,7 @@
   <img height=200 src="https://readme-stats-danrejk.vercel.app/api?username=Danrejk&theme=github_dark&border_color=3d444d&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://readme-stats-danrejk.vercel.app/api/top-langs/?username=Danrejk&layout=compact&theme=github_dark&border_color=3d444d&count_private=true&hide=QML&langs_count=8&size_weight=0.5&count_weight=0.5" />
+  <img height=200 src="https://readme-stats-danrejk.vercel.app/api/top-langs/?username=Danrejk&layout=compact&theme=github_dark&border_color=3d444d&count_private=true&hide=QML&langs_count=10&size_weight=0.2&count_weight=0.8" />
 </a>
 <br>Actually the language stats aren't too accurate due to how <i>github-readme-stats</i> calculates them.
 <br>I suspect that they include large files like images in the bit total. Hence so much HTML & .py procentages.

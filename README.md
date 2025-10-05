@@ -7,9 +7,9 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/RegionRiders/RegionRiders/issues/29) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ❗ Opened issue [#26](https://github.com/RegionRiders/RegionRiders/issues/26) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. ❗ Opened issue [#20](https://github.com/RegionRiders/RegionRiders/issues/20) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. ❗ Opened issue [#19](https://github.com/RegionRiders/RegionRiders/issues/19) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ❗ Opened issue [#18](https://github.com/RegionRiders/RegionRiders/issues/18) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🚀 Published release [UA2024 Artificer printable A5 booklet - v.1.0](https://github.com/Danrejk/UA2024-Artificer-Printable-A5-Booklet/releases/tag/v.1.0) in [Danrejk/UA2024-Artificer-Printable-A5-Booklet](https://github.com/Danrejk/UA2024-Artificer-Printable-A5-Booklet)
+2. ❗ Opened issue [#29](https://github.com/RegionRiders/RegionRiders/issues/29) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. ❗ Opened issue [#26](https://github.com/RegionRiders/RegionRiders/issues/26) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. ❗ Opened issue [#20](https://github.com/RegionRiders/RegionRiders/issues/20) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ❗ Opened issue [#19](https://github.com/RegionRiders/RegionRiders/issues/19) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->

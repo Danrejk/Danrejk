@@ -7,9 +7,9 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/xT3sl4/ViRoTePi/pull/4#issuecomment-3373678312) in [xT3sl4/ViRoTePi](https://github.com/xT3sl4/ViRoTePi)
-2. ❌ Labeled PR [#30](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. 💪 Opened PR [#30](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. ❌ Assigned PR [#30](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. 🚀 Published release [UA2024 Artificer printable A5 booklet - v.1.0](https://github.com/Danrejk/UA2024-Artificer-Printable-A5-Booklet/releases/tag/v.1.0) in [Danrejk/UA2024-Artificer-Printable-A5-Booklet](https://github.com/Danrejk/UA2024-Artificer-Printable-A5-Booklet)
+1. 🚀 Published release [release](https://github.com/Danrejk/space-invaders/releases/tag/release) in [Danrejk/space-invaders](https://github.com/Danrejk/space-invaders)
+2. 🗣 Commented on [#4](https://github.com/xT3sl4/ViRoTePi/pull/4#issuecomment-3373678312) in [xT3sl4/ViRoTePi](https://github.com/xT3sl4/ViRoTePi)
+3. ❌ Labeled PR [#30](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. 💪 Opened PR [#30](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ❌ Assigned PR [#30](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->

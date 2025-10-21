@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my domain! Wiktor's the name. <img src="https://komarev.com/ghpvc/?username=Danrejk&label=Profile%20views&color=0e75b6&style=flat" align="right" width="110" alt="Total visits" /></h1> 
+<h1 align="left">Welcome to my domain! <img src="https://komarev.com/ghpvc/?username=Danrejk&label=Profile%20views&color=0e75b6&style=flat" align="right" width="110" alt="Total visits" /></h1> 
 
 - 🚧 I'm currently working on **A website to display all of your routes from Strava, along with multi-day trip analysis and a map of all the regions you have visited.**
 - 🧠 I'm currently learning **Next.js & Managing Large Data**

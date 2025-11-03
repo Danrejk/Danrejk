@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1.  Assigned issue [#5](https://github.com/RegionRiders/RegionRiders/issues/5) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2.  Unlabeled issue [#5](https://github.com/RegionRiders/RegionRiders/issues/5) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3.  Assigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4.  Assigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. 🚀 Published release [release](https://github.com/Danrejk/space-invaders/releases/tag/release) in [Danrejk/space-invaders](https://github.com/Danrejk/space-invaders)
+1. 🗣 Commented on [#9](https://github.com/RegionRiders/RegionRiders/issues/9#issuecomment-3480290433) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2.  Unassigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3.  Assigned issue [#5](https://github.com/RegionRiders/RegionRiders/issues/5) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4.  Unlabeled issue [#5](https://github.com/RegionRiders/RegionRiders/issues/5) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5.  Assigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

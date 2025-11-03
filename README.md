@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1.  Assigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2.  Assigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. 🚀 Published release [release](https://github.com/Danrejk/space-invaders/releases/tag/release) in [Danrejk/space-invaders](https://github.com/Danrejk/space-invaders)
-4. 🗣 Commented on [#4](https://github.com/xT3sl4/ViRoTePi/pull/4#issuecomment-3373678312) in [xT3sl4/ViRoTePi](https://github.com/xT3sl4/ViRoTePi)
-5. ❌ Labeled PR [#30](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1.  Assigned issue [#5](https://github.com/RegionRiders/RegionRiders/issues/5) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2.  Unlabeled issue [#5](https://github.com/RegionRiders/RegionRiders/issues/5) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3.  Assigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4.  Assigned issue [#7](https://github.com/RegionRiders/RegionRiders/issues/7) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. 🚀 Published release [release](https://github.com/Danrejk/space-invaders/releases/tag/release) in [Danrejk/space-invaders](https://github.com/Danrejk/space-invaders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

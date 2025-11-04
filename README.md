@@ -2,7 +2,7 @@
 
 - 🚧 I'm currently working on **A website to display all of your routes from Strava, along with multi-day trip analysis and a map of all the regions you have visited.**
 - 🧠 I'm currently learning **Next.js & Managing Large Data**
-- 🗣 Ask me about **the [Here To Slay Card Maker](https://github.com/Danrejk/Here-To-Slay-Card-Maker) and my other projects**
+- 🗣 Ask me about **the [Here To Slay Card Maker](https://github.com/Danrejk/Here-To-Slay-Card-Maker), [RegionRiders](https://github.com/RegionRiders/RegionRiders) and my other projects**
 - 📫 How to reach me **SDanrejk@gmail.com**
 
 <a href="https://github.com/Danrejk/github-profile-trophy/tree/master">

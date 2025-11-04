@@ -14,9 +14,9 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/RegionRiders/RegionRiders/pull/35#issuecomment-3482769598) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2.  Labeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3.  Labeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1.  Labeled issue [#8](https://github.com/RegionRiders/RegionRiders/issues/8) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2.  Unlabeled issue [#8](https://github.com/RegionRiders/RegionRiders/issues/8) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. 🗣 Commented on [#35](https://github.com/RegionRiders/RegionRiders/pull/35#issuecomment-3482769598) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 4.  Labeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 5.  Labeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->

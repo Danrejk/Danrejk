@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#18](https://github.com/RegionRiders/RegionRiders/issues/18) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2.  Labeled issue [#18](https://github.com/RegionRiders/RegionRiders/issues/18) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3.  Labeled issue [#19](https://github.com/RegionRiders/RegionRiders/issues/19) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4.  Unlabeled issue [#19](https://github.com/RegionRiders/RegionRiders/issues/19) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5.  Labeled issue [#37](https://github.com/RegionRiders/RegionRiders/issues/37) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🗣 Commented on [#7](https://github.com/MakSobo80/rpi/pull/7#issuecomment-3492914257) in [MakSobo80/rpi](https://github.com/MakSobo80/rpi)
+2.  Unlabeled issue [#18](https://github.com/RegionRiders/RegionRiders/issues/18) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3.  Labeled issue [#18](https://github.com/RegionRiders/RegionRiders/issues/18) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4.  Labeled issue [#19](https://github.com/RegionRiders/RegionRiders/issues/19) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5.  Unlabeled issue [#19](https://github.com/RegionRiders/RegionRiders/issues/19) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

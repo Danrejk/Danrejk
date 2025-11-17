@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/RegionRiders/RegionRiders/pull/64#issuecomment-3540272768) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ❌ Reopened PR [#38](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. ❌ Closed PR [#71](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. ❌ Closed PR [#38](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ❌ Unlabeled PR [#38](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1.  Labeled issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2.  Labeled issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3.  Labeled issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4.  Assigned issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ❗ Opened issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1.  Labeled issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1.  Assigned issue [#29](https://github.com/RegionRiders/RegionRiders/issues/29) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 2.  Labeled issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 3.  Labeled issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4.  Assigned issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ❗ Opened issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4.  Labeled issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5.  Assigned issue [#74](https://github.com/RegionRiders/RegionRiders/issues/74) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

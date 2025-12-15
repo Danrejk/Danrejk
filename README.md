@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1.  Labeled issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. 🗣 Commented on [#9](https://github.com/RegionRiders/RegionRiders/issues/9#issuecomment-3654145117) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3.  Assigned issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. ❌ Labeled PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ❌ Labeled PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. ❗ Opened issue [#7](https://github.com/PatrykKryger/Warzywniak_Warzywex/issues/7) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
+2. ❌ Merged PR [#83](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3.  Labeled issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. 🗣 Commented on [#9](https://github.com/RegionRiders/RegionRiders/issues/9#issuecomment-3654145117) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5.  Assigned issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

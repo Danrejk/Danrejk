@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ❌ Labeled PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🗣 Commented on [#9](https://github.com/RegionRiders/RegionRiders/issues/9#issuecomment-3654145117) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2.  Assigned issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 3. ❌ Labeled PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 4. ❌ Labeled PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. 💪 Opened PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ❌ Labeled PR [#89](undefined) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

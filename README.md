@@ -14,8 +14,8 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/PatrykKryger/Warzywniak_Warzywex/issues/7) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
-2. 🎉 Merged PR [#83](https://github.com/RegionRiders/RegionRiders/pull/83) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🗣 Commented on [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8#issuecomment-3765833569) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
+2. 💪 Opened PR [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
 3. ℹ️ Labeled issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 4. 🗣 Commented on [#9](https://github.com/RegionRiders/RegionRiders/issues/9#issuecomment-3654145117) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 5. ℹ️ Assigned issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)

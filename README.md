@@ -14,9 +14,9 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8#issuecomment-3765833569) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
-2. 💪 Opened PR [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
-3. ℹ️ Labeled issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. ❗ Opened issue [#2973](https://github.com/openfrontio/OpenFrontIO/issues/2973) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+2. 🗣 Commented on [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8#issuecomment-3765833569) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
+3. 💪 Opened PR [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
 4. 🗣 Commented on [#9](https://github.com/RegionRiders/RegionRiders/issues/9#issuecomment-3654145117) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 5. ℹ️ Assigned issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->

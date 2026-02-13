@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2973](https://github.com/openfrontio/OpenFrontIO/issues/2973) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-2. 🗣 Commented on [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8#issuecomment-3765833569) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
-3. 💪 Opened PR [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
-4. 🗣 Commented on [#9](https://github.com/RegionRiders/RegionRiders/issues/9#issuecomment-3654145117) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ℹ️ Assigned issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. ℹ️ Labeled PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. ℹ️ Labeled PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. ❗ Opened issue [#2973](https://github.com/openfrontio/OpenFrontIO/issues/2973) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
+4. 🗣 Commented on [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8#issuecomment-3765833569) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
+5. 💪 Opened PR [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

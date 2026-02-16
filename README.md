@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ℹ️ Labeled PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. ℹ️ Labeled PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. ❗ Opened issue [#2973](https://github.com/openfrontio/OpenFrontIO/issues/2973) in [openfrontio/OpenFrontIO](https://github.com/openfrontio/OpenFrontIO)
-5. 🗣 Commented on [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8#issuecomment-3765833569) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
+1. 🎉 Merged PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. ℹ️ Labeled PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. ℹ️ Labeled PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. 💪 Opened PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ℹ️ Assigned PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

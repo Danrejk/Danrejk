@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ℹ️ Labeled PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🗣 Commented on [#8](https://github.com/PatrykKryger/Warzywniak_Warzywex/pull/8#issuecomment-3908538938) in [PatrykKryger/Warzywniak_Warzywex](https://github.com/PatrykKryger/Warzywniak_Warzywex)
+2. 🎉 Merged PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 3. ℹ️ Labeled PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. 💪 Opened PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ℹ️ Assigned PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. ℹ️ Labeled PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. 💪 Opened PR [#119](https://github.com/RegionRiders/RegionRiders/pull/119) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

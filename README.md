@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/bhanuprasanna2001/AIlways/pull/4#issuecomment-3939364100) in [bhanuprasanna2001/AIlways](https://github.com/bhanuprasanna2001/AIlways)
-2. ℹ️ Unassigned issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. ℹ️ Labeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. ℹ️ Unlabeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ℹ️ Labeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🗣 Commented on [#126](https://github.com/RegionRiders/RegionRiders/pull/126#issuecomment-3977840221) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 🗣 Commented on [#4](https://github.com/bhanuprasanna2001/AIlways/pull/4#issuecomment-3939364100) in [bhanuprasanna2001/AIlways](https://github.com/bhanuprasanna2001/AIlways)
+3. ℹ️ Unassigned issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. ℹ️ Labeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ℹ️ Unlabeled issue [#34](https://github.com/RegionRiders/RegionRiders/issues/34) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

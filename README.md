@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/RegionRiders/RegionRiders/pull/126#issuecomment-3978004774) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. 🗣 Commented on [#126](https://github.com/RegionRiders/RegionRiders/pull/126#issuecomment-3977948491) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. 🗣 Commented on [#126](https://github.com/RegionRiders/RegionRiders/pull/126#issuecomment-3977893793) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. 🗣 Commented on [#126](https://github.com/RegionRiders/RegionRiders/pull/126#issuecomment-3977840221) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. 🗣 Commented on [#4](https://github.com/bhanuprasanna2001/AIlways/pull/4#issuecomment-3939364100) in [bhanuprasanna2001/AIlways](https://github.com/bhanuprasanna2001/AIlways)
+1. 🗣 Commented on [#129](https://github.com/RegionRiders/RegionRiders/pull/129#issuecomment-3978224372) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. ℹ️ Labeled PR [#129](https://github.com/RegionRiders/RegionRiders/pull/129) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. ℹ️ Labeled PR [#129](https://github.com/RegionRiders/RegionRiders/pull/129) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. ℹ️ Labeled PR [#129](https://github.com/RegionRiders/RegionRiders/pull/129) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. 💪 Opened PR [#129](https://github.com/RegionRiders/RegionRiders/pull/129) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

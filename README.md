@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/RegionRiders/RegionRiders/issues/17#issuecomment-3981231826) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. ℹ️ Labeled issue [#14](https://github.com/RegionRiders/RegionRiders/issues/14) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. ℹ️ Unlabeled issue [#14](https://github.com/RegionRiders/RegionRiders/issues/14) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. 🗣 Commented on [#12](https://github.com/RegionRiders/RegionRiders/issues/12#issuecomment-3981228719) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. ℹ️ Labeled issue [#12](https://github.com/RegionRiders/RegionRiders/issues/12) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🗣 Commented on [#89](https://github.com/RegionRiders/RegionRiders/pull/89#issuecomment-3982706756) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 🗣 Commented on [#120](https://github.com/RegionRiders/RegionRiders/issues/120#issuecomment-3982687393) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. ℹ️ Assigned issue [#120](https://github.com/RegionRiders/RegionRiders/issues/120) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. 🗣 Commented on [#17](https://github.com/RegionRiders/RegionRiders/issues/17#issuecomment-3981231826) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. ℹ️ Labeled issue [#14](https://github.com/RegionRiders/RegionRiders/issues/14) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

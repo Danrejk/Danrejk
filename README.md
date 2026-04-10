@@ -22,8 +22,8 @@
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://readme-stats-danrejk.vercel.app/api?username=Danrejk&theme=github_dark&border_color=3d444d&count_private=true" />
+  <img height=200 src="https://readme-stats-danrejk.vercel.app/api?username=Danrejk&theme=github_dark&border_color=3d444d&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://readme-stats-danrejk.vercel.app/api/top-langs/?username=Danrejk&layout=compact&theme=github_dark&border_color=3d444d&count_private=true&hide=QML&langs_count=10&size_weight=0.6&count_weight=0.4" />
+  <img height=200 src="https://readme-stats-danrejk.vercel.app/api/top-langs/?username=Danrejk&layout=compact&theme=github_dark&border_color=3d444d&hide=QML&langs_count=10&size_weight=0.6&count_weight=0.4" />
 </a>

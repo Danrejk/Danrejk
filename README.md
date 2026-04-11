@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229555505) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229502484) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229360839) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. 🎉 Merged PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. 🔒 Closed issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229873104) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229555505) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229502484) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229360839) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. 🎉 Merged PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

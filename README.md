@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229360839) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. 🎉 Merged PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. 🔒 Closed issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. 🗣 Commented on [#16](https://github.com/MakSobo80/rpi/pull/16#issuecomment-4227268514) in [MakSobo80/rpi](https://github.com/MakSobo80/rpi)
-5. 🗣 Commented on [#16](https://github.com/MakSobo80/rpi/pull/16#issuecomment-4227248191) in [MakSobo80/rpi](https://github.com/MakSobo80/rpi)
+1. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229502484) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 🗣 Commented on [#193](https://github.com/RegionRiders/RegionRiders/pull/193#issuecomment-4229360839) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. 🎉 Merged PR [#89](https://github.com/RegionRiders/RegionRiders/pull/89) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. 🔒 Closed issue [#9](https://github.com/RegionRiders/RegionRiders/issues/9) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+5. 🗣 Commented on [#16](https://github.com/MakSobo80/rpi/pull/16#issuecomment-4227268514) in [MakSobo80/rpi](https://github.com/MakSobo80/rpi)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

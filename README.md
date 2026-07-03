@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com/RegionRiders/RegionRiders/pull/207#issuecomment-4275783936) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. 🗣 Commented on [#207](https://github.com/RegionRiders/RegionRiders/pull/207#issuecomment-4275781516) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. 🗣 Commented on [#161](https://github.com/RegionRiders/RegionRiders/pull/161#issuecomment-4266889290) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-4. 🗣 Commented on [#161](https://github.com/RegionRiders/RegionRiders/pull/161#issuecomment-4235779869) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. 🗣 Commented on [#161](https://github.com/RegionRiders/RegionRiders/pull/161#issuecomment-4235766633) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. ❌ Closed PR [#1](https://github.com/Danrejk/b_hack-chatbot/pull/1) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
+2. 🎉 Merged PR [#3](https://github.com/Danrejk/b_hack-chatbot/pull/3) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
+3. 💪 Opened PR [#3](https://github.com/Danrejk/b_hack-chatbot/pull/3) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
+4. 🎉 Merged PR [#2](https://github.com/Danrejk/b_hack-chatbot/pull/2) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
+5. 💪 Opened PR [#2](https://github.com/Danrejk/b_hack-chatbot/pull/2) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

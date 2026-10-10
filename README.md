@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Danrejk/b_hack-chatbot/pull/15) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
-2. 💪 Opened PR [#15](https://github.com/Danrejk/b_hack-chatbot/pull/15) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
-3. 🎉 Merged PR [#14](https://github.com/Danrejk/b_hack-chatbot/pull/14) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
-4. 💪 Opened PR [#14](https://github.com/Danrejk/b_hack-chatbot/pull/14) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
-5. 🎉 Merged PR [#13](https://github.com/Danrejk/b_hack-chatbot/pull/13) in [Danrejk/b_hack-chatbot](https://github.com/Danrejk/b_hack-chatbot)
+1. 🌱 Created branch `main` in [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
+2. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
+3. 🔨 Pushed 0 commits to [Danrejk/UG-Warsztat-Programisty-LAB](https://github.com/Danrejk/UG-Warsztat-Programisty-LAB)
+4. 🔨 Pushed 0 commits to [Danrejk/UG-Warsztat-Programisty-LAB](https://github.com/Danrejk/UG-Warsztat-Programisty-LAB)
+5. 🌱 Created branch `master` in [Danrejk/UG-Warsztat-Programisty-LAB](https://github.com/Danrejk/UG-Warsztat-Programisty-LAB)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

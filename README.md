@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🌱 Created branch `main` in [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
-2. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
-3. 🔨 Pushed 0 commits to [Danrejk/UG-Warsztat-Programisty-LAB](https://github.com/Danrejk/UG-Warsztat-Programisty-LAB)
-4. 🔨 Pushed 0 commits to [Danrejk/UG-Warsztat-Programisty-LAB](https://github.com/Danrejk/UG-Warsztat-Programisty-LAB)
-5. 🌱 Created branch `master` in [Danrejk/UG-Warsztat-Programisty-LAB](https://github.com/Danrejk/UG-Warsztat-Programisty-LAB)
+1. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
+2. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
+3. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
+4. 🌱 Created branch `main` in [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
+5. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

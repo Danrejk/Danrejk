@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
-2. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
-3. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
-4. 🌱 Created branch `main` in [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
-5. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
+1. 🔨 Pushed 0 commits to [Danrejk/Danrejk](https://github.com/Danrejk/Danrejk)
+2. 🌱 Created branch `main` in [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
+3. 🔨 Pushed 0 commits to [Danrejk/Danrejk](https://github.com/Danrejk/Danrejk)
+4. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
+5. 🔨 Pushed 0 commits to [Danrejk/Commufie](https://github.com/Danrejk/Commufie)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

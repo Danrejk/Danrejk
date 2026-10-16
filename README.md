@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
+1. 🔨 Pushed 0 commits to [Danrejk/UG-Warsztat-Programisty-LAB](https://github.com/Danrejk/UG-Warsztat-Programisty-LAB)
 2. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
 3. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
 4. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
-5. 🌱 Created branch `main` in [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
+5. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

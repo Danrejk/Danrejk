@@ -17,8 +17,8 @@
 1. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
 2. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
 3. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
-4. 🌱 Created branch `main` in [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
-5. 🔨 Pushed 0 commits to [Danrejk/Danrejk](https://github.com/Danrejk/Danrejk)
+4. 🔨 Pushed 0 commits to [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
+5. 🌱 Created branch `main` in [Danrejk/UG-git-conflict-lab](https://github.com/Danrejk/UG-git-conflict-lab)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

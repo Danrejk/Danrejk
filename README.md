@@ -15,7 +15,7 @@
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
-2. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-Programowania-LAB](https://github.com/Danrejk/UG-Wstep-do-Programowania-LAB)
+2. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
 3. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-Programowania-LAB](https://github.com/Danrejk/UG-Wstep-do-Programowania-LAB)
 4. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-Programowania-LAB](https://github.com/Danrejk/UG-Wstep-do-Programowania-LAB)
 5. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-Programowania-LAB](https://github.com/Danrejk/UG-Wstep-do-Programowania-LAB)

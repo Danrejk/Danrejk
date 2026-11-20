@@ -14,11 +14,11 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
-2. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-technologii-Web-LAB](https://github.com/Danrejk/UG-Wstep-do-technologii-Web-LAB)
-3. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-Programowania-LAB](https://github.com/Danrejk/UG-Wstep-do-Programowania-LAB)
-4. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-Programowania-LAB](https://github.com/Danrejk/UG-Wstep-do-Programowania-LAB)
-5. 🔨 Pushed 0 commits to [Danrejk/UG-Wstep-do-Programowania-LAB](https://github.com/Danrejk/UG-Wstep-do-Programowania-LAB)
+1. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+2. 🗣️ Opened issue [#4](https://github.com/Danrejk/zadanie-eliminacyjne-BCM/issues/4) in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+3. 🗣️ Assigned issue [#2](https://github.com/Danrejk/zadanie-eliminacyjne-BCM/issues/2) in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+4. 🗣️ Labeled issue [#4](https://github.com/Danrejk/zadanie-eliminacyjne-BCM/issues/4) in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+5. 🗣️ Opened issue [#3](https://github.com/Danrejk/zadanie-eliminacyjne-BCM/issues/3) in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -18,7 +18,7 @@
 2. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 3. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 4. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
-5. 🌱 Created branch `feat/improve-trashcan` in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+5. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

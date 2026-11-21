@@ -16,9 +16,9 @@
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 2. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
-3. 🗣️ Closed issue [#1](https://github.com/Danrejk/zadanie-eliminacyjne-BCM/issues/1) in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
-4. 🗣️ Closed issue [#2](https://github.com/Danrejk/zadanie-eliminacyjne-BCM/issues/2) in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
-5. 💪 Opened PR [#6](None) in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+3. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+4. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+5. 🌱 Created branch `feat/improve-trashcan` in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

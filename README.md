@@ -14,10 +14,10 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🌱 Created branch `feat/notebook-modals` in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
-2. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
-3. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
-4. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
+1. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+4. 🌱 Created branch `feat/notebook-modals` in [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 5. 🔨 Pushed 0 commits to [Danrejk/zadanie-eliminacyjne-BCM](https://github.com/Danrejk/zadanie-eliminacyjne-BCM)
 <!--END_SECTION:activity-->
 

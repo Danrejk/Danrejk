@@ -15,7 +15,7 @@
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
 1. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. 🌱 Created branch `feat/heatmap-approach-b-1stage-kde` in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 3. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 4. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 5. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)

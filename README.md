@@ -14,11 +14,10 @@
 
 ## 🚀 Recent Activity  
 <!--START_SECTION:activity-->
-1. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-2. 🌱 Created branch `feat/heatmap-approach-a-2stage-kde` in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-3. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+1. 💪 Opened PR [#281](None) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+2. 💪 Opened PR [#268](None) in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
+3. 🌱 Created branch `feat/heatmap-approach-polygon-lines` in [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 4. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
-5. 🔨 Pushed 0 commits to [RegionRiders/RegionRiders](https://github.com/RegionRiders/RegionRiders)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
